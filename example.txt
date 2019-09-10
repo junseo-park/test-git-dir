@@ -2,3 +2,5 @@ This is text written in the master branch.
 
 
 Now, this is text written in the making-edits branch.
+
+Another change made from making-edits.
