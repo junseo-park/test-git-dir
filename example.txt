@@ -1,4 +1,4 @@
-This is text written in the master branch.
+This is a heatmap written in the master branch.
 
 
 Now, this is text written in the making-edits branch.
